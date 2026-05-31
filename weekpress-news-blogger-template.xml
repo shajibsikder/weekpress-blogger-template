@@ -18,19 +18,7 @@
 </b:if>
 </b:if>
 </b:if>
-</b:if>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+</b:if>  
     <meta content='width=device-width, initial-scale=1' name='viewport'/>
     <b:include data='blog' name='all-head-content'/>
     <b:skin><![CDATA[
@@ -377,7 +365,6 @@ body#layout .flex-left{display:flex!important}body#layout .mid{display:flex!impo
   <div class='mid sp_flex'>
     <div class='image'>
       <img class='main_img' expr:alt='data:post.title' expr:src='data:post.featuredImage'/>
-      <img alt='' class='fold' src='https://raw.githubusercontent.com/shajibsikder/weekpress-blogger-template/refs/heads/main/assets/cms.png'/>
     </div>
     <div class='content'>
       <span class='cat'><a expr:href='data:post.labels.first.url' expr:title='&quot;Archive by category &quot; + data:post.labels.first.name' rel='category tag'><data:post.labels.first.name/></a></span>
