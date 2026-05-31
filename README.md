@@ -1,42 +1,18 @@
-# 📰 WeekPress - Professional News & Magazine Blogger Template
-
-![WeekPress Blogger Template Banner](https://raw.githubusercontent.com/shajibsikder/weekpress-blogger-template/refs/heads/main/assets/cms.png)
+# 📰 WeekPress Professional News & Magazine Blogger Template
 
 A **production-ready, Google-approved, SEO-optimized** responsive Blogger theme engineered for news portals, digital magazines, and professional content publishers.
 
-## Status & Badges
+![WeekPress Blogger Template Banner](https://raw.githubusercontent.com/shajibsikder/weekpress-blogger-template/refs/heads/main/assets/template.png)
 
 [![License: MIT](https://img.shields.io/badge/License-Free%20Use-brightgreen?style=for-the-badge)](LICENSE)
 [![Platform: Blogger](https://img.shields.io/badge/Platform-Blogger-orange?style=for-the-badge&logo=blogger&logoColor=white)](https://www.blogger.com)
 [![SEO Optimized](https://img.shields.io/badge/SEO-Optimized-blue?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/search)
 [![Responsive Design](https://img.shields.io/badge/Responsive-Mobile%20First-purple?style=for-the-badge&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/Responsive_web_design)
 [![Code Quality](https://img.shields.io/badge/Code-Production%20Ready-green?style=for-the-badge)](https://github.com/shajibsikder/weekpress-blogger-template)
-[![Updated](https://img.shields.io/badge/Updated-2024-blueviolet?style=for-the-badge)](#)
+
+<b>About This Template: </b>WeekPress is a fully-featured, professionally-designed Blogger template developed by **Weekmotion Tech** (Lead Developer: Shajib Sikder). It combines modern editorial design with advanced SEO optimization and performance engineering.
 
 **Quick Links:** [📥 Installation](#installation-guide) | [🎯 Features](#core-features) | [📖 Docs](#documentation) | [🐞 Issues](https://github.com/shajibsikder/weekpress-blogger-template/issues) | [💬 Support](#support--community)
-
----
-
-## 📑 Table of Contents
-
-- [About This Template](#about-this-template)
-- [Core Features](#core-features)
-- [Technical Stack](#technical-stack)
-- [System Requirements](#system-requirements)
-- [Installation Guide](#installation-guide)
-- [Configuration](#configuration)
-- [SEO & Performance](#seo--performance)
-- [Troubleshooting](#troubleshooting)
-- [Best Practices](#best-practices)
-- [About Weekmotion Tech](#about-weekmotion-tech)
-- [License & Attribution](#license--attribution)
-- [Support](#support--community)
-
----
-
-## About This Template
-
-WeekPress is a fully-featured, professionally-designed Blogger template developed by **Weekmotion Tech** (Lead Developer: Shajib Sikder). It combines modern editorial design with advanced SEO optimization and performance engineering.
 
 ### Who Should Use WeekPress?
 
@@ -54,7 +30,7 @@ WeekPress is a fully-featured, professionally-designed Blogger template develope
 - **Lifetime Free Updates** — No licensing fees, open-source philosophy
 - **Native Blogger Integration** — No plugins needed
 
----
+ 
 
 ## 📁 Template Structure
 
@@ -71,22 +47,7 @@ weekpress-blogger-template/
     └── ads.webp                                 # Ad placeholder (300×250px)
 ```
 
-### Key Template Sections
-
-| Section | Lines | Purpose |
-|---|---|---|
-| **Head** | 1-150 | Meta tags, title logic, viewport, fonts |
-| **Navigation Header** | 151-400 | Fixed top bar, logo, menu, search |
-| **Featured Slider** | 401-600 | Owl Carousel, featured posts, rotation |
-| **Featured Grid** | 601-800 | 3-column post grid, featured content |
-| **Recent Posts Area** | 801-1000 | Main blog posts, pagination |
-| **Sidebar** | 1001-1300 | Widgets, search, categories, popular posts |
-| **Comments Section** | 1301-1600 | Styled comment system, threading |
-| **Footer** | 1601-1800 | Links, social icons, copyright, newsletter |
-| **CSS Styles** | 1801-3500 | All styling, responsive media queries |
-| **JavaScript** | 3501-3800 | jQuery logic, carousel, menu toggle |
-
----
+ 
 
 ## Core Features
 
@@ -109,13 +70,11 @@ weekpress-blogger-template/
 
 Fully responsive across all devices:
 
-```
 365px - 480px  → Small phones (single column)
 480px - 768px  → Tablets (flexible grid)
 768px - 1024px → Large tablets (3-column)
 1024px - 1440px → Desktops (full layout)
 1440px+        → Large desktops (optimized max-width)
-```
 
 - Touch-friendly mobile menu
 - Mobile hamburger navigation
@@ -165,7 +124,7 @@ Fully responsive across all devices:
 
 </details>
 
----
+ 
 
 ## Technical Stack
 
@@ -204,7 +163,7 @@ Fully responsive across all devices:
 <summary><strong>External Libraries</strong></summary>
 
 | Library | Version | Size | Source | Purpose |
-|---------|---------|------|--------|---------|
+|   |   |  |  --|   |
 | jQuery | 3.x | 87 KB | cdnjs.cloudflare.com | DOM manipulation |
 | Owl Carousel | 2.3.4 | 46 KB | GitHub CDN | Homepage slider |
 | Font Awesome | 4.6.3 | 80 KB | cdnjs.cloudflare.com | Icons |
@@ -234,7 +193,7 @@ Fully responsive across all devices:
 
 </details>
 
----
+ 
 
 ## System Requirements
 
@@ -256,7 +215,7 @@ Fully responsive across all devices:
 **Browser Support**
 
 | Browser | Minimum | Status |
-|---------|---------|--------|
+|   |   |  --|
 | Chrome | Latest 2 versions | ✅ Full Support |
 | Firefox | Latest 2 versions | ✅ Full Support |
 | Safari | 13+ | ✅ Full Support |
@@ -267,7 +226,7 @@ Fully responsive across all devices:
 
 </details>
 
----
+ 
 
 ## Installation Guide
 
@@ -396,9 +355,7 @@ A code editor will open showing your current template.
 
 <details>
 <summary><strong>Step 6: Verify Installation</strong></summary>
-
-**Homepage Test**
-
+    
 - [ ] Visit your blog URL
 - [ ] Featured slider loads
 - [ ] Featured posts grid visible
@@ -426,7 +383,7 @@ A code editor will open showing your current template.
 
 </details>
 
----
+ 
 
 ## Configuration
 
@@ -560,7 +517,7 @@ The slider is controlled by Blogger's Featured Post widget.
 
 </details>
 
----
+ 
 
 ## SEO & Performance
 
@@ -640,7 +597,7 @@ SEO:              95-98/100
 **Core Web Vitals**
 
 | Metric | Target | WeekPress | Status |
-|--------|--------|-----------|--------|
+|  --|  --|   --|  --|
 | LCP | < 2.5s | ~1.8s | ✅ Good |
 | FID | < 100ms | ~25ms | ✅ Good |
 | CLS | < 0.1 | ~0.05 | ✅ Good |
@@ -697,7 +654,7 @@ Title (H1)
 
 </details>
 
----
+ 
 
 ## Troubleshooting
 
@@ -790,7 +747,7 @@ Title (H1)
 
 </details>
 
----
+ 
 
 ## Best Practices
 
@@ -931,7 +888,7 @@ Title (H1)
 
 </details>
 
----
+ 
 
 ## 📦 Technology Stack
 
@@ -1003,7 +960,7 @@ WeekPress is built with a carefully curated set of modern, battle-tested technol
 └──────────────────┘
 ```
 
----
+ 
 
 
 ## About Weekmotion Tech
@@ -1022,12 +979,12 @@ Weekmotion Tech specializes in creating professional, free, and open-source tool
 
 **Connect With Us**
 
-- Blog: [weekmotion.com/blog](https://weekmotion.com/blog)
-- Templates: [weekmotion.com/templates](https://weekmotion.com/templates)
-- Contact: [weekmotion.com/contact](https://weekmotion.com/contact)
-- Issues: [GitHub Issues](https://github.com/shajibsikder/weekpress-blogger-template/issues)
+| | | | | | | | | 
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| <a href="https://linkedin.com/in/shajibsikder"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"></a> | <a href="https://facebook.com/shajibno1"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968764.png" width="40"></a> | <a href="https://www.codester.com/weekmotion/"><img src="https://www.codester.com/static/img/content/logo-icon.png" width="40"></a> | <a href="https://wikigenius.org/wiki/Md_Shajib_Sikder"><img src="https://wikigenius.org/images/thumb/2/2c/Wikigenius.png/299px-Wikigenius.png" width="40"></a> | <a href="https://instagram.com/shajibno1"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"></a> | <a href="https://weekmotion.com/service"><img src="https://cdn-icons-png.flaticon.com/512/8036/8036117.png" width="40"></a> | <a href="https://www.pinterest.com/shajibsikder1/"><img src="https://cdn-icons-png.flaticon.com/512/2504/2504932.png" width="40"></a> | <a href="https://www.youtube.com/@jagatbarta"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40"></a> |
+| LinkedIn | Facebook | Codester | WikiGenius | Instagram | Weekmotion | Pinterest | YouTube |
 
----
+ 
 
 ## License & Attribution
 
@@ -1068,13 +1025,13 @@ Design by <a href="https://weekmotion.com">Shajib Sikder</a>
 **Third-Party Licenses**
 
 | Library | License |
-|---------|---------|
+|   |   |
 | jQuery | MIT |
 | Owl Carousel | MIT |
 | Font Awesome | CC BY 4.0 |
 | Google Fonts | Open Font License |
 
----
+ 
 
 ## Support & Community
 
@@ -1123,10 +1080,10 @@ A: Yes, uses Blogger's native language detection. Font supports Bengali + Latin.
 **Q: Is it SEO-friendly?**  
 A: Yes, designed with SEO best practices and achieves excellent PageSpeed scores.
 
----
+ 
 
 **⭐ If this template helped you, please give it a star on GitHub!**
 
 **Made with ❤️ by Weekmotion Tech**
 
-**Version:** 1.0.0 | **Updated:** January 2024 | **License:** Free with Attribution
+**Version:** 1.0.0 | **Updated:** January 2026 | **License:** Free with Attribution
