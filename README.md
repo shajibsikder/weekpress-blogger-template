@@ -178,7 +178,7 @@ Fully responsive across all devices:
 <summary><strong>External Libraries</strong></summary>
 
 | Library | Version | Size | Source | Purpose |
-|   |   |  |  --|   |
+| ---| ---| ---| ---| ---|
 | jQuery | 3.x | 87 KB | cdnjs.cloudflare.com | DOM manipulation |
 | Owl Carousel | 2.3.4 | 46 KB | GitHub CDN | Homepage slider |
 | Font Awesome | 4.6.3 | 80 KB | cdnjs.cloudflare.com | Icons |
@@ -230,7 +230,7 @@ Fully responsive across all devices:
 **Browser Support**
 
 | Browser | Minimum | Status |
-|   |   |  --|
+| ---| ---| ---|
 | Chrome | Latest 2 versions | ✅ Full Support |
 | Firefox | Latest 2 versions | ✅ Full Support |
 | Safari | 13+ | ✅ Full Support |
@@ -766,7 +766,6 @@ Title (H1)
 
 ## Best Practices
 
-<details>
 <summary><strong>Content Publishing Checklist</strong></summary>
 
 **Before Publishing Each Post**
@@ -814,8 +813,6 @@ Title (H1)
 - [ ] Test images display
 - [ ] Check mobile view
 - [ ] Test different browsers
-
-</details>
 
 <details>
 <summary><strong>Content Calendar & Schedule</strong></summary>
@@ -986,9 +983,9 @@ Weekmotion Tech specializes in creating professional, free, and open-source tool
 
 **Company Information**
 
-- Website: [weekmotion.com](https://weekmotion.com)
+- Website: [weekmotion Tech](https://weekmotion.com/service)
 - Services: Blogger Templates, WordPress Themes, UI Design
-- Primary Developer: Shajib Sikder
+- Primary Developer: [Shajib Sikder](https://www.facebook.com/shajibno1/)
 - GitHub: [@shajibsikder](https://github.com/shajibsikder)
 - Support Email: support@weekmotion.com
 
