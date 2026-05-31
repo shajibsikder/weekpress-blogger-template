@@ -1,4 +1,4 @@
-# 📰 WeekPress Professional News & Magazine Blogger Template
+<h2>WeekPress Professional News & Magazine Blogger Template</h2>
 
 A **production-ready, Google-approved, SEO-optimized** responsive Blogger theme engineered for news portals, digital magazines, and professional content publishers.
 
@@ -46,6 +46,21 @@ weekpress-blogger-template/
     ├── cms.png                                  # Template preview banner
     └── ads.webp                                 # Ad placeholder (300×250px)
 ```
+
+### Key Template Sections
+
+| Section | Lines | Purpose |
+|---|---|---|
+| **Head** | 1-150 | Meta tags, title logic, viewport, fonts |
+| **Navigation Header** | 151-400 | Fixed top bar, logo, menu, search |
+| **Featured Slider** | 401-600 | Owl Carousel, featured posts, rotation |
+| **Featured Grid** | 601-800 | 3-column post grid, featured content |
+| **Recent Posts Area** | 801-1000 | Main blog posts, pagination |
+| **Sidebar** | 1001-1300 | Widgets, search, categories, popular posts |
+| **Comments Section** | 1301-1600 | Styled comment system, threading |
+| **Footer** | 1601-1800 | Links, social icons, copyright, newsletter |
+| **CSS Styles** | 1801-3500 | All styling, responsive media queries |
+| **JavaScript** | 3501-3800 | jQuery logic, carousel, menu toggle |
 
  
 
